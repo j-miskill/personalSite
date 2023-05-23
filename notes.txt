@@ -1,0 +1,35 @@
+index.html is the home page. This is an industry standard thing. 
+
+Boiler plate code is just the base line code that we need. You can get boiler plate on vscode just by typing "html" and then choosing whichever you want. 
+
+every html page has 2 sections: head and body
+    head: set up
+    body: the actual content of the website
+
+body:
+    h1,h2,h3,h5,h6 -> all heading abbr. for vs code. Will automatically create headings.
+    img (tab)-> brings in the image code 
+
+url:
+    uniform resource locator-> path to a specific file!
+    web browser is simply code that can recognize and view html, css, js, etc
+
+https: 
+    hypertext transfer protocol
+    special series of hoops browsers must go through in order to get to a file
+
+hosting:
+    basically, need to find a site to host a simple html thing. 
+    I can write the code for my website, and provide all of the links and stuff, though!
+    Can be really easy. 
+    I think it would be a better idea for me to do this just because I don't want to have to go through other companies hurdles. 
+
+
+html and css video: https://www.codecademy.com/article/f1-u2-create-first-prj
+    side note: code academy lowkey dope as hell.
+
+css class:
+    reusable by anything that has that class! You define it in the css file and then it's applied to the html
+
+html glossary:
+https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet
