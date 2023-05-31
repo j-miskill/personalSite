@@ -44,3 +44,9 @@
 background-color: #193fa0;
 color: white;
 }
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
