@@ -10,3 +10,20 @@ range(0,5)
 ```
 
 Important to remember for algorithms.
+
+## Sets
+
+Python has something called sets, which are data structures that are essentially hashmaps within Python.
+
+They have super quick lookup times.
+
+## Lambda expressions
+
+Need a function but only one time? No reason to write one out for yourself. You can use lambda functions in Python (which was something I learned about in my SDE class in Fall 2022).
+
+```
+expression = lambda y: print("This is lambda")
+print(expression())
+```
+
+This is super neat.
